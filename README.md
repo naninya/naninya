@@ -52,8 +52,23 @@
 |2020.02|IT passport|https://www3.jitec.ipa.go.jp/JitesCbt/?topbana|
 
 ## Projects
+**Official**
+|Period|Project|Grant|Position|Skills|
+|------|---|---|---|---|
+|2015.06.01~2016.05.31|海洋観測ブイのための海洋IoT標準プラットフォームの開発|₩95,000,000 韓国　海洋科学技術院|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.05.01~2017.04.30|センサー基盤の事物インターネット技術を利用したヘルスケアのためのスマートライフロガーHW / SWプラットフォームとアプリ開発|₩80,000,000 韓国　産業通商資源部|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.09.28 ~ 2017.02.28|位地基盤 サービスのためのウェアラブルHW / SWプラットフォームの設計|₩10,000,000 韓国　釜山大学校 産学協力団|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.10.5~2017.2.28|ATSC 3.0基盤の地上波UHDサービスと受信機ガイドライン開発|₩30,000,000 韓国　情報通信技術振興センター|Develop|Matlab|  
+|2017.01.01~2017.12.31|超高品質UHD (UHQ) 転送技術開発|₩100,000,000 韓国　未来創造科学部|Develop|Matlab|  
+|2019.03.01~ -|カメラ関連アプリ開発|?|Develop|Android|  
+|2020.09.23~2020.12.31|web news crawl & extract company name|?|Develop|Python, NLP(pytorch, bert, w2v...)|  
+|2020.09.23~2021.04.30|company category classification|?|Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
+|2020.11.01~2021.03.30|similar company list|?|Develop|Python, Collaborative filtering|    
+|2020.04.01~2021.06.30|PDF parsing|?|Develop|Python, Clustering|  
+|2021.06.01~2021.12.30|Predict amount, employee, industry, api service|1億円以上|Develop|Python, NLP, AWS|  
 
-
+**Private**
+Kaggle
 
 ![Viewers](https://gpvc.arturio.dev/aregtech)
 
