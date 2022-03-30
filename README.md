@@ -69,7 +69,9 @@
 
 **Private**
 Kaggle
+|Name|Rank|URL|
+|tabular|461/1362|https://www.kaggle.com/competitions/tabular-playground-series-nov-2021/overview|
 
-![Viewers](https://gpvc.arturio.dev/aregtech)
+
 
 <!-- markdownlint-enable -->
