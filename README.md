@@ -67,9 +67,10 @@
 |2020.04.01~2021.06.30|PDF parsing|?|Develop|Python, Clustering|  
 |2021.06.01~2021.12.30|Predict amount, employee, industry, api service|1億円以上|Develop|Python, NLP, AWS|  
 
-**Private**
-Kaggle
+**Private Kaggle**
+
 |Name|Rank|URL|
+|------|---|---|---|---|
 |tabular|461/1362|https://www.kaggle.com/competitions/tabular-playground-series-nov-2021/overview|
 
 
