@@ -65,7 +65,7 @@
 |2020.09.23~2021.04.30|company category classification|?|Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
 |2020.11.01~2021.03.30|similar company list|?|Develop|Python, Collaborative filtering|    
 |2020.04.01~2021.06.30|PDF parsing|?|Develop|Python, Clustering|  
-|2021.06.01~2021.12.30|Predict amount, employee, industry, api service|1億円以上|Develop|Python, NLP, AWS|  
+|2021.06.01~2021.12.30|Predict amount, employee, industry, api service|10億円以上|Develop|Python, NLP, AWS|  
 
 **Private Kaggle**
 
