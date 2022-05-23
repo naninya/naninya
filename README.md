@@ -64,7 +64,7 @@
 |2020.09.23~2020.12.31|web news crawl & extract company name|?|Develop|Python, NLP(pytorch, bert, w2v...)|  
 |2020.09.23~2021.04.30|company category classification|?|Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
 |2020.11.01~2021.03.30|similar company list|?|Develop|Python, Collaborative filtering|    
-|2020.04.01~2021.06.30|Extract celebrity person from PDF|?|Develop|Python, Clustering|  
+|2020.04.01~2021.06.30|Extract personnel shift from PDF|?|Develop|Python, Clustering|  
 |2021.06.01~2021.12.30|Predict amount, employee, industry, api service|10億円以上|Develop|Python, NLP, AWS|  
 
 **Private Kaggle**
