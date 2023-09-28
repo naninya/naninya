@@ -10,7 +10,8 @@
 * 2010.03 ~ 2016.02 KMOU Electronical and Electronics engineering Bachelor  
 * 2015.06 ~ 2018.02 KMOU Electronic communication and Signal processing Master  
 * 2019.02 ~ 2020.08 Android application engineer  
-* 2020.09 ~ now AI engineer  
+* 2020.09 ~ 2022.09 AI engineer (NLP)
+* 2022.10 ~ NOW     AI engineer (Visual inspection)
 
 ## Papers[![](./docs/img/pin.svg)](#motivation)
 
