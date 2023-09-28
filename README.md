@@ -61,7 +61,7 @@
 |2016.09.28 ~ 2017.02.28|位地基盤 サービスのためのウェアラブルHW / SWプラットフォームの設計|₩10,000,000 韓国　釜山大学校 産学協力団|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
 |2016.10.5~2017.2.28|ATSC 3.0基盤の地上波UHDサービスと受信機ガイドライン開発|₩30,000,000 韓国　情報通信技術振興センター|Develop|Matlab|  
 |2017.01.01~2017.12.31|超高品質UHD (UHQ) 転送技術開発|₩100,000,000 韓国　未来創造科学部|Develop|Matlab|  
-|2019.03.01~ -|カメラ関連アプリ開発|?|Develop|Android|  
+|2019.03.01~ -|カメラ関連アプリ開発| |Develop|Android|  
 |2020.09.23~2020.12.31|web news crawl & extract company name| |Develop|Python, NLP(pytorch, bert, w2v...)|  
 |2020.09.23~2021.04.30|company category classification| |Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
 |2020.11.01~2021.03.30|similar company list| |Develop|Python, Collaborative filtering|    
