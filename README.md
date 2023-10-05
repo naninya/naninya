@@ -73,7 +73,6 @@
 |Name|Rank|URL|
 |------|---|---|
 |tabular|461/1362|https://www.kaggle.com/competitions/tabular-playground-series-nov-2021/overview|
-|HappyWhale|1395/1588|https://www.kaggle.com/competitions/happy-whale-and-dolphin|
 
 
 
