@@ -72,7 +72,7 @@
 |2022.05.01~2023.12.30|Development of a video-based anomaly detection system for manufacturing lines| |Develop|Python, VisualInspection| 
 |2024.01.01~2024.03.30|Development of a RAG-based chatbot and data accumulation system utilizing Azure services|¥7,500,000 |Develop|Python, RAG, Azure, AISearch..| 
 |2024.04.01~2024.06.30|Study on the performance of GPT-4V and other Vision-Language Models for specific cell image understanding|¥7,500,000 |Research|Python, OpenAI, GPT4V, VLM, LLAVAv1.5| 
-|2024.07.01~2024.10.30|Development and training of a deep learning model for crack detection in images|¥7,500,000 |Develop|Python, KeypointRCNN, Yolov8, ONNX, OpenVINO| 
+|2024.07.01~2024.09.30|Development and training of a deep learning model for crack detection in images|¥7,500,000 |Develop|Python, KeypointRCNN, Yolov8, ONNX, OpenVINO| 
 |2024.10.01~2024.12.30|Development of an AI-powered requirements definition generator|¥7,500,000 |Product|Python, Streamlit, GCP, Auth0|
 |2025.01.01~2025.3.30|Development of an AI-based segmentation system for automated quality control of whole slide images (WSI)|¥7,500,000 |Develop|Python, WSI, HistoROI, HistoQC(https://github.com/choosehappy/HistoQC)|
 |2025.04.01~2025.10.30|Integrated authentication and authorization platform for multiple applications| |Product Delivery|Auth0|
