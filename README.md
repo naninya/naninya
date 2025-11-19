@@ -39,7 +39,6 @@
 |Date|Award|Description|
 |------|---|---|
 |2017.11.03|Best student paper Award |KOSBE, 2017, The Korean Institute of Broadcast and Media Engineerings |
-|2017.09.|1st |KOREA JUDO ASSOCIATION, 2017, Busan cup Judo Tournament|
 
 
 ## Licences
@@ -49,7 +48,6 @@
 |2015.02|AUTOCAD 1|https://www.eatc.co.kr/|
 |2015.02|Toeic speaking Lv6|https://www.toeicswt.co.kr/|
 |2015.12|iot knowledge ability test pass|https://cp.kiot.or.kr/main/index.nx|
-|2018.02|JUDO Third degree black belt|http://judo.sports.or.kr/|
 |2019.08|JLPT 1給|https://www.jlpt.jp/|
 |2020.02|IT passport|https://www3.jitec.ipa.go.jp/JitesCbt/?topbana|
 
@@ -57,17 +55,28 @@
 **Official**
 |Period|Project|Grant|Position|Skills|
 |------|---|---|---|---|
-|2015.06.01~2016.05.31|海洋観測ブイのための海洋IoT標準プラットフォームの開発|₩95,000,000 韓国　海洋科学技術院|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.05.01~2017.04.30|センサー基盤の事物インターネット技術を利用したヘルスケアのためのスマートライフロガーHW / SWプラットフォームとアプリ開発|₩80,000,000 韓国　産業通商資源部|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.09.28 ~ 2017.02.28|位地基盤 サービスのためのウェアラブルHW / SWプラットフォームの設計|₩10,000,000 韓国　釜山大学校 産学協力団|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.10.5~2017.2.28|ATSC 3.0基盤の地上波UHDサービスと受信機ガイドライン開発|₩30,000,000 韓国　情報通信技術振興センター|Develop|Matlab|  
-|2017.01.01~2017.12.31|超高品質UHD (UHQ) 転送技術開発|₩100,000,000 韓国　未来創造科学部|Develop|Matlab|  
-|2019.03.01~ -|カメラ関連アプリ開発| |Develop|Android|  
+|2015.06.01~2016.05.31|Development of a standard marine IoT platform for ocean observation buoys|₩95,000,000 韓国　海洋科学技術院|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.05.01~2017.04.30|Development of a smart life-logger hardware/software platform and application for healthcare using sensor-based Internet of Things (IoT) technology|₩80,000,000 韓国　産業通商資源部|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.09.28 ~ 2017.02.28|Design of a wearable hardware and software platform for location-based services|₩10,000,000 韓国　釜山大学校 産学協力団|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.10.5~2017.2.28|Development of terrestrial UHD broadcasting services and receiver guidelines based on ATSC 3.0|₩30,000,000 韓国　情報通信技術振興センター|Develop|Matlab|  
+|2017.01.01~2017.12.31|Development of ultra-high-quality UHD (UHQ) transmission technology|₩100,000,000 韓国　未来創造科学部|Develop|Matlab|  
+|2019.03.01~ -|Development of camera-based applications| |Develop|Android|  
 |2020.09.23~2020.12.31|web news crawl & extract company name| |Develop|Python, NLP(pytorch, bert, w2v...)|  
 |2020.09.23~2021.04.30|company category classification| |Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
 |2020.11.01~2021.03.30|similar company list| |Develop|Python, Collaborative filtering|    
 |2020.04.01~2021.06.30|Extract personnel shift from PDF| |Develop|Python, Clustering|  
-|2021.06.01~2021.12.30|Predict amount, employee, industry, api service|10億円以上|Develop|Python, NLP, AWS|  
+|2021.06.01~2021.12.30|Predict amount, employee, industry, api service|¥1,000,000,000|Develop|Python, NLP, AWS|  
+|2022.01.01~2022.03.30|User Behavior Analysis| |Develop|Python, NLP| 
+|2022.04.01~2022.09.30|AI-powered database enhancement and prediction| |Develop|Python, NLP| 
+|2022.10.01~2022.4.30|Unsupervised Anomaly Detection| |Develop|Python, VisualInspection| 
+|2022.05.01~2023.12.30|Development of a video-based anomaly detection system for manufacturing lines| |Develop|Python, VisualInspection| 
+|2024.01.01~2024.03.30|Development of a RAG-based chatbot and data accumulation system utilizing Azure services|¥7,500,000 |Develop|Python, RAG, Azure, AISearch..| 
+|2024.04.01~2024.06.30|Study on the performance of GPT-4V and other Vision-Language Models for specific cell image understanding|¥7,500,000 |Research|Python, OpenAI, GPT4V, VLM, LLAVAv1.5| 
+|2024.07.01~2024.10.30|Development and training of a deep learning model for crack detection in images|¥7,500,000 |Develop|Python, KeypointRCNN, Yolov8, ONNX, OpenVINO| 
+|2024.10.01~2024.12.30|Development of an AI-powered requirements definition generator|¥7,500,000 |Product|Python, Streamlit, GCP, Auth0|
+|2025.01.01~2025.3.30|Development of an AI-based segmentation system for automated quality control of whole slide images (WSI)|¥7,500,000 |Develop|Python, WSI, HistoROI, HistoQC(https://github.com/choosehappy/HistoQC)|
+|2025.04.01~2025.10.30|Integrated authentication and authorization platform for multiple applications| |Product Delivery|Auth0|
+
 
 **Private Kaggle**
 
