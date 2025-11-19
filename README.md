@@ -55,11 +55,11 @@
 **Official**
 |Period|Project|Grant|Position|Skills|
 |------|---|---|---|---|
-|2015.06.01~2016.05.31|Development of a standard marine IoT platform for ocean observation buoys|₩95,000,000 韓国　海洋科学技術院|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.05.01~2017.04.30|Development of a smart life-logger hardware/software platform and application for healthcare using sensor-based Internet of Things (IoT) technology|₩80,000,000 韓国　産業通商資源部|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.09.28 ~ 2017.02.28|Design of a wearable hardware and software platform for location-based services|₩10,000,000 韓国　釜山大学校 産学協力団|PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
-|2016.10.5~2017.2.28|Development of terrestrial UHD broadcasting services and receiver guidelines based on ATSC 3.0|₩30,000,000 韓国　情報通信技術振興センター|Develop|Matlab|  
-|2017.01.01~2017.12.31|Development of ultra-high-quality UHD (UHQ) transmission technology|₩100,000,000 韓国　未来創造科学部|Develop|Matlab|  
+|2015.06.01~2016.05.31|Development of a standard marine IoT platform for ocean observation buoys|₩95,000,000 |PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.05.01~2017.04.30|Development of a smart life-logger hardware/software platform and application for healthcare using sensor-based Internet of Things (IoT) technology|₩80,000,000 |PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.09.28 ~ 2017.02.28|Design of a wearable hardware and software platform for location-based services|₩10,000,000 |PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
+|2016.10.5~2017.2.28|Development of terrestrial UHD broadcasting services and receiver guidelines based on ATSC 3.0|₩30,000,000 |Develop|Matlab|  
+|2017.01.01~2017.12.31|Development of ultra-high-quality UHD (UHQ) transmission technology|₩100,000,000 |Develop|Matlab|  
 |2019.03.01~ -|Development of camera-based applications| |Develop|Android|  
 |2020.09.23~2020.12.31|web news crawl & extract company name| |Develop|Python, NLP(pytorch, bert, w2v...)|  
 |2020.09.23~2021.04.30|company category classification| |Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
