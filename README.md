@@ -60,7 +60,7 @@
 |2016.09.28 ~ 2017.02.28|Design of a wearable hardware and software platform for location-based services|₩10,000,000 |PM, Develop|AutoCAD, C++, Arduino, Arm Processor|  
 |2016.10.5~2017.2.28|Development of terrestrial UHD broadcasting services and receiver guidelines based on ATSC 3.0|₩30,000,000 |Develop|Matlab|  
 |2017.01.01~2017.12.31|Development of ultra-high-quality UHD (UHQ) transmission technology|₩100,000,000 |Develop|Matlab|  
-|2019.03.01~ -|Development of camera-based applications| |Develop|Android|  
+|2019.03.01~ 2020.08.30|Development of camera-based applications| |Develop|Android|  
 |2020.09.23~2020.12.31|web news crawl & extract company name| |Develop|Python, NLP(pytorch, bert, w2v...)|  
 |2020.09.23~2021.04.30|company category classification| |Develop|Python, NLP + DeepLearning(tensorflow, w2v..)|
 |2020.11.01~2021.03.30|similar company list| |Develop|Python, Collaborative filtering|    
